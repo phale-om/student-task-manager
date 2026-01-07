@@ -4,7 +4,6 @@ A simple frontend web application to manage daily tasks.
 
 ## Tech Stack
 - HTML
-- Tailwind CSS
 - JavaScript
 
 ## Features
